@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_MP7_21CA</defName>
+    <label>MP7 bullet</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.15</drawSize>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>11</damageAmountBase>
+      <armorPenetrationBase>.29</armorPenetrationBase>
+      <speed>66</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseHumanMakeableGun">
+    <defName>Axi_SMG_MP7_21CA</defName>
+    <label>Heckler and Koch MP7</label>
+    <description>Originally designed as a rival to FN's P90, the MP7 took on a life of its own as Deutschplan's premier submachine gun. Adored by special operations teams across the galaxy for it's uncanny ability to penetrate body armor in a compact package. Unfortunately, the small fast round it fires means that while the armor penetration is astounding, the damage to soft tissue leaves something to be desired.</description>
+    <graphicData>
+      <texPath>Things/SMG_MP7</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.15</drawSize>
+    </graphicData>
+    <soundInteract>Interact_SMG</soundInteract>
+    <statBases>
+      <WorkToMake>21000</WorkToMake>
+      <Mass>2.3</Mass>
+      <AccuracyTouch>.9</AccuracyTouch>
+      <AccuracyShort>.65</AccuracyShort>
+      <AccuracyMedium>45</AccuracyMedium>
+      <AccuracyLong>.15</AccuracyLong>
+      <RangedWeapon_Cooldown>.9</RangedWeapon_Cooldown>
+    </statBases>
+    <recipeMaker>
+      <researchPrerequisite>BlowbackOperation</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>7</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <costList>
+      <Steel>69</Steel>
+      <!--ayy-->
+      <ComponentIndustrial>5</ComponentIndustrial>
+    </costList>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_MP7_21CA</defaultProjectile>
+        <warmupTime>.5</warmupTime>
+        <range>20</range>
+        <burstShotCount>4</burstShotCount>
+        <ticksBetweenBurstShots>7</ticksBetweenBurstShots>
+        <soundCast>Shot_MachinePistol</soundCast>
+        <soundCastTail>GunTail_Light</soundCastTail>
+        <muzzleFlashScale>7</muzzleFlashScale>
+      </li>
+    </verbs>
+    <tools>
+      <li>
+        <label>stock</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>1.6</cooldownTime>
+      </li>
+      <li>
+        <label>barrel</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>1.6</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+</Defs>

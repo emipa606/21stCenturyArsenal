@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_DSR1_21CA</defName>
+    <label>DSR-1 bullet</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Big</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.15</drawSize>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>29</damageAmountBase>
+      <speed>120</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseHumanMakeableGun">
+    <defName>Axi_SR_DSR1_21CA</defName>
+    <label>DSR Precision DSR-1</label>
+    <description>Developed on Deutschplan as a precision marksman's rifle for specialist elements of the Bundespolizei. In the years since it's unveiling, copies of the rifle have slowly found their way into the hands of Deutsch mercenaries on numerous midworlds, and a unique, heavily modified version was found being used by one such mercenary named Bruno Sutkus.</description>
+    <graphicData>
+      <texPath>Things/SR_DSR1</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.15</drawSize>
+    </graphicData>
+    <soundInteract>Interact_Rifle</soundInteract>
+    <statBases>
+      <WorkToMake>57000</WorkToMake>
+      <Mass>4.2</Mass>
+      <AccuracyTouch>.45</AccuracyTouch>
+      <AccuracyShort>.65</AccuracyShort>
+      <AccuracyMedium>.85</AccuracyMedium>
+      <AccuracyLong>.9</AccuracyLong>
+      <RangedWeapon_Cooldown>2.9</RangedWeapon_Cooldown>
+    </statBases>
+    <recipeMaker>
+      <researchPrerequisite>PrecisionRifling</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>8</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <costList>
+      <Steel>80</Steel>
+      <ComponentIndustrial>9</ComponentIndustrial>
+    </costList>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_DSR1_21CA</defaultProjectile>
+        <warmupTime>3.8</warmupTime>
+        <range>55</range>
+        <soundCast>Shot_SniperRifle</soundCast>
+        <soundCastTail>GunTail_Heavy</soundCastTail>
+        <muzzleFlashScale>9</muzzleFlashScale>
+      </li>
+    </verbs>
+    <tools>
+      <li>
+        <label>stock</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2.1</cooldownTime>
+      </li>
+      <li>
+        <label>barrel</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>2.4</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+</Defs>

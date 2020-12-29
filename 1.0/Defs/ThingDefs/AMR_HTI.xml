@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_HTI_21CA</defName>
+    <label>HTI bullet</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Big</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.35</drawSize>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>52</damageAmountBase>
+      <armorPenetrationBase>2.4</armorPenetrationBase>
+      <speed>108</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseHumanMakeableGun">
+    <defName>Axi_AMR_HTI_21CA</defName>
+    <label>Desert Tech HTI</label>
+    <description>Designed and manufactured on the desert world of Utha, Desert Tech approached the problem of mechanoids and light armored vehicles in the same way it did most others: with bullpup design and robust engineering. As a result of its native home in Utha's sand dunes and dusty shrublands, the Hard Target Interdiction rifle can survive through the toughest environments you could possibly throw it into and continue firing rounds downrange without stoppage or loss of consistency.</description>
+    <graphicData>
+      <texPath>Things/AMR_HTI</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.15</drawSize>
+    </graphicData>
+    <soundInteract>Interact_Rifle</soundInteract>
+    <statBases>
+      <WorkToMake>70000</WorkToMake>
+      <Mass>14.8</Mass>
+      <AccuracyTouch>.45</AccuracyTouch>
+      <AccuracyShort>.7</AccuracyShort>
+      <AccuracyMedium>.75</AccuracyMedium>
+      <AccuracyLong>.8</AccuracyLong>
+      <RangedWeapon_Cooldown>6.4</RangedWeapon_Cooldown>
+    </statBases>
+    <recipeMaker>
+      <researchPrerequisite>PrecisionRifling</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>9</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <costList>
+      <Steel>200</Steel>
+      <ComponentIndustrial>14</ComponentIndustrial>
+    </costList>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_HTI_21CA</defaultProjectile>
+        <warmupTime>6.8</warmupTime>
+        <range>75</range>
+        <soundCast>Shot_SniperRifle</soundCast>
+        <soundCastTail>GunTail_Heavy</soundCastTail>
+        <muzzleFlashScale>13</muzzleFlashScale>
+      </li>
+    </verbs>
+    <tools>
+      <li>
+        <label>stock</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2.1</cooldownTime>
+      </li>
+      <li>
+        <label>barrel</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>2.4</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+</Defs>
