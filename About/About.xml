@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>21st Century Arsenal</name>
+  <name>21st Century Arsenal (Continued)</name>
   <packageId>Mlie.21stCenturyArsenal</packageId>
   <author>Axinex</author>
   <url>https://github.com/emipa606/21stCenturyArsenal</url>
@@ -16,6 +16,8 @@
   <description>[img]https://i.imgur.com/WAEzk68.png[/img]
 Update of Axinex mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1598963961
+
+- No longer requires [url=https://steamcommunity.com/workshop/filedetails/?id=1438488634][XND] Proper Shotguns[/url] but uses it if its loaded.
 
 [img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
@@ -42,9 +44,6 @@ Stats for all weapons can be viewed [url=https://docs.google.com/spreadsheets/d/
 As this mod is still a work in progress and actively being developed, I invite you to leave feedback in the comments section regarding weapon suggestions, balance, and overall thoughts/opinions. I understand that the weapons-mod space is pretty saturated, and any feedback you can provide is greatly appreciated!
 
 I can be reached at the [url=https://discord.gg/rimworld]RimWorld community Discord[/url] at @Axi#9143
-
-Like my mods? Maybe you could buy me a cup of coffee?
-[url=https://ko-fi.com/T6T5NWPJ][img]https://i.imgur.com/3QgNZRw.png[/img][/url]
 
 [b]Massive shout-out to the following folks:[/b]
 [url=https://github.com/Abaddon16]@abaddon16[/url] (Discord: @abaddon16#7120) - For showing me that modding isn't as scary as it first seems and for never-ending rubberducking
