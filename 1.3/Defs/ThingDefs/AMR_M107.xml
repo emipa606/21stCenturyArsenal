@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_M107_21CA</defName>
+    <label>M107 bullet</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Big</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.35</drawSize>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>52</damageAmountBase>
+      <armorPenetrationBase>2.4</armorPenetrationBase>
+      <speed>108</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseHumanMakeableGun">
+    <defName>Axi_AMR_M107_21CA</defName>
+    <label>Barrett M107</label>
+    <description>The Barrett M107 is a legendary anti-materiel rifle, having been used by many a well-known mercenary company and military sniper team. Its massive .50-caliber armor-piercing rounds are specifically designed to pierce thick armor, and is even known to punch straight through the tough exteroirs of mechanoid centipedes with ease.</description>
+    <graphicData>
+      <texPath>Things/AMR_M107</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.15</drawSize>
+    </graphicData>
+    <soundInteract>Interact_Rifle</soundInteract>
+    <statBases>
+      <WorkToMake>80000</WorkToMake>
+      <Mass>15.6</Mass>
+      <AccuracyTouch>.4</AccuracyTouch>
+      <AccuracyShort>.6</AccuracyShort>
+      <AccuracyMedium>.7</AccuracyMedium>
+      <AccuracyLong>.73</AccuracyLong>
+      <RangedWeapon_Cooldown>4.5</RangedWeapon_Cooldown>
+    </statBases>
+    <recipeMaker>
+      <researchPrerequisite>PrecisionRifling</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>10</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <costList>
+      <Steel>265</Steel>
+      <ComponentIndustrial>18</ComponentIndustrial>
+    </costList>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_M107_21CA</defaultProjectile>
+        <warmupTime>8.25</warmupTime>
+        <range>70</range>
+        <soundCast>Shot_SniperRifle</soundCast>
+        <soundCastTail>GunTail_Heavy</soundCastTail>
+        <muzzleFlashScale>13</muzzleFlashScale>
+      </li>
+    </verbs>
+    <tools>
+      <li>
+        <label>stock</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2.1</cooldownTime>
+      </li>
+      <li>
+        <label>barrel</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>2.4</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+</Defs>
