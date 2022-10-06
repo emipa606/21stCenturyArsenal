@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_Shotgun_21CA</defName>
+    <label>M26 MASS shot</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.25</drawSize>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>19</damageAmountBase>
+      <armorPenetrationBase>.13</armorPenetrationBase>
+      <stoppingPower>2.6</stoppingPower>
+      <speed>45</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseHumanMakeableGun">
+    <defName>Axi_S_M26MASS_21CA</defName>
+    <label>M26 MASS</label>
+    <description>Originally designed as an under-barrel attachment for assault rifles, the M26 was found to perform more optimally in a standalone configuration with a pistol grip and traditional stock. This example of the weapon features these attachments in a permenently-attached fashion.</description>
+    <graphicData>
+      <texPath>Things/S_M26_MASS</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.15</drawSize>
+    </graphicData>
+    <soundInteract>Interact_Shotgun</soundInteract>
+    <statBases>
+      <WorkToMake>11000</WorkToMake>
+      <Mass>2.25</Mass>
+      <AccuracyTouch>.7</AccuracyTouch>
+      <AccuracyShort>.8</AccuracyShort>
+      <AccuracyMedium>.65</AccuracyMedium>
+      <AccuracyLong>.5</AccuracyLong>
+      <RangedWeapon_Cooldown>1.08</RangedWeapon_Cooldown>
+    </statBases>
+    <recipeMaker>
+      <skillRequirements>
+        <Crafting>6</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <costList>
+      <Steel>55</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
+    </costList>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_Shotgun_21CA</defaultProjectile>
+        <warmupTime>.9</warmupTime>
+        <range>13</range>
+        <soundCast>Shot_Shotgun</soundCast>
+        <soundCastTail>GunTail_Light</soundCastTail>
+        <muzzleFlashScale>9</muzzleFlashScale>
+      </li>
+    </verbs>
+    <tools>
+      <li>
+        <label>stock</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>1.6</cooldownTime>
+      </li>
+      <li>
+        <label>barrel</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>1.6</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+</Defs>
