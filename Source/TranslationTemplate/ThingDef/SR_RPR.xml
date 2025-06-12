@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Ruger Precision Rifle -->
+  <Axi_SR_RPR_21CA.label>Ruger Precision Rifle</Axi_SR_RPR_21CA.label>
+  <!-- EN: Ruger's Precision Rifle platform is an interesting take on the modern precision rifle. Making extensive use of lightweight materials, and eschewing the typical characteristics of the traditional bolt-action rifle in favor of features like accessory rails and a fully-adjustable, skeletonized stock, Ruger has managed to produce a bolt gun that puts many competing (and oftentimes more expensive) products to shame. -->
+  <Axi_SR_RPR_21CA.description>Ruger's Precision Rifle platform is an interesting take on the modern precision rifle. Making extensive use of lightweight materials, and eschewing the typical characteristics of the traditional bolt-action rifle in favor of features like accessory rails and a fully-adjustable, skeletonized stock, Ruger has managed to produce a bolt gun that puts many competing (and oftentimes more expensive) products to shame.</Axi_SR_RPR_21CA.description>
+  <!-- EN: stock -->
+  <Axi_SR_RPR_21CA.tools.stock.label>stock</Axi_SR_RPR_21CA.tools.stock.label>
+  <!-- EN: barrel -->
+  <Axi_SR_RPR_21CA.tools.barrel.label>barrel</Axi_SR_RPR_21CA.tools.barrel.label>
+  <!-- EN: Ruger Precision Rifle -->
+  <Axi_SR_RPR_21CA.verbs.Verb_Shoot.label>Ruger Precision Rifle</Axi_SR_RPR_21CA.verbs.Verb_Shoot.label>
+  <!-- EN: Ruger Precision bullet -->
+  <Bullet_RPR_21CA.label>Ruger Precision bullet</Bullet_RPR_21CA.label>
+</LanguageData>

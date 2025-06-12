@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: M26 MASS -->
+  <Axi_S_M26MASS_21CA.label>M26 MASS</Axi_S_M26MASS_21CA.label>
+  <!-- EN: Originally designed as an under-barrel attachment for assault rifles, the M26 was found to perform more optimally in a standalone configuration with a pistol grip and traditional stock. This example of the weapon features these attachments in a permenently-attached fashion. -->
+  <Axi_S_M26MASS_21CA.description>Originally designed as an under-barrel attachment for assault rifles, the M26 was found to perform more optimally in a standalone configuration with a pistol grip and traditional stock. This example of the weapon features these attachments in a permenently-attached fashion.</Axi_S_M26MASS_21CA.description>
+  <!-- EN: stock -->
+  <Axi_S_M26MASS_21CA.tools.stock.label>stock</Axi_S_M26MASS_21CA.tools.stock.label>
+  <!-- EN: barrel -->
+  <Axi_S_M26MASS_21CA.tools.barrel.label>barrel</Axi_S_M26MASS_21CA.tools.barrel.label>
+  <!-- EN: M26 MASS -->
+  <Axi_S_M26MASS_21CA.verbs.Verb_Shoot.label>M26 MASS</Axi_S_M26MASS_21CA.verbs.Verb_Shoot.label>
+  <!-- EN: M26 MASS shot -->
+  <Bullet_Shotgun_21CA.label>M26 MASS shot</Bullet_Shotgun_21CA.label>
+</LanguageData>

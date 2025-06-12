@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- Bullet_Shotgun_21CA defined in S_M26MASS.xml -->
   <ThingDef ParentName="BaseHumanMakeableGun">

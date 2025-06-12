@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Desert Tech HTI -->
+  <Axi_AMR_HTI_21CA.label>Desert Tech HTI</Axi_AMR_HTI_21CA.label>
+  <!-- EN: Designed and manufactured on the desert world of Utha, Desert Tech approached the problem of mechanoids and light armored vehicles in the same way it did most others: with bullpup design and robust engineering. As a result of its native home in Utha's sand dunes and dusty shrublands, the Hard Target Interdiction rifle can survive through the toughest environments you could possibly throw it into and continue firing rounds downrange without stoppage or loss of consistency. -->
+  <Axi_AMR_HTI_21CA.description>Designed and manufactured on the desert world of Utha, Desert Tech approached the problem of mechanoids and light armored vehicles in the same way it did most others: with bullpup design and robust engineering. As a result of its native home in Utha's sand dunes and dusty shrublands, the Hard Target Interdiction rifle can survive through the toughest environments you could possibly throw it into and continue firing rounds downrange without stoppage or loss of consistency.</Axi_AMR_HTI_21CA.description>
+  <!-- EN: stock -->
+  <Axi_AMR_HTI_21CA.tools.stock.label>stock</Axi_AMR_HTI_21CA.tools.stock.label>
+  <!-- EN: barrel -->
+  <Axi_AMR_HTI_21CA.tools.barrel.label>barrel</Axi_AMR_HTI_21CA.tools.barrel.label>
+  <!-- EN: Desert Tech HTI -->
+  <Axi_AMR_HTI_21CA.verbs.Verb_Shoot.label>Desert Tech HTI</Axi_AMR_HTI_21CA.verbs.Verb_Shoot.label>
+  <!-- EN: HTI bullet -->
+  <Bullet_HTI_21CA.label>HTI bullet</Bullet_HTI_21CA.label>
+</LanguageData>

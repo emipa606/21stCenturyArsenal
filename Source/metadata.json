@@ -2,5 +2,12 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "0",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "SocialImageSet": true,
+  "SearchTags": [
+    " gunsmithing",
+    " weaponry",
+    " variety"
+  ],
+  "LastXmlCleaning": "2025-06-12T22:44:42.9879413+02:00"
 }

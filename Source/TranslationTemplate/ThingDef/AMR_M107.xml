@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Barrett M107 -->
+  <Axi_AMR_M107_21CA.label>Barrett M107</Axi_AMR_M107_21CA.label>
+  <!-- EN: The Barrett M107 is a legendary anti-materiel rifle, having been used by many a well-known mercenary company and military sniper team. Its massive .50-caliber armor-piercing rounds are specifically designed to pierce thick armor, and is even known to punch straight through the tough exteroirs of mechanoid centipedes with ease. -->
+  <Axi_AMR_M107_21CA.description>The Barrett M107 is a legendary anti-materiel rifle, having been used by many a well-known mercenary company and military sniper team. Its massive .50-caliber armor-piercing rounds are specifically designed to pierce thick armor, and is even known to punch straight through the tough exteroirs of mechanoid centipedes with ease.</Axi_AMR_M107_21CA.description>
+  <!-- EN: stock -->
+  <Axi_AMR_M107_21CA.tools.stock.label>stock</Axi_AMR_M107_21CA.tools.stock.label>
+  <!-- EN: barrel -->
+  <Axi_AMR_M107_21CA.tools.barrel.label>barrel</Axi_AMR_M107_21CA.tools.barrel.label>
+  <!-- EN: Barrett M107 -->
+  <Axi_AMR_M107_21CA.verbs.Verb_Shoot.label>Barrett M107</Axi_AMR_M107_21CA.verbs.Verb_Shoot.label>
+  <!-- EN: M107 bullet -->
+  <Bullet_M107_21CA.label>M107 bullet</Bullet_M107_21CA.label>
+</LanguageData>

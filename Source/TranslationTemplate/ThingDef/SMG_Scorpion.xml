@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: CZ Scorpion -->
+  <Axi_SMG_Scorpion_21CA.label>CZ Scorpion</Axi_SMG_Scorpion_21CA.label>
+  <!-- EN: The third generation Scorpion, the EVO 3, continues CZ's tradition of taking everything great about the previous generation Scorpion and improving upon it. The EVO 3 is a distilled masterpiece of a 9mm SMG, boasting a fast fire rate, soft recoil impulse, and excellent ergonomics. It's no wonder special operations and boarding forces around the cluster rave about this compact buzzsaw of a gun. -->
+  <Axi_SMG_Scorpion_21CA.description>The third generation Scorpion, the EVO 3, continues CZ's tradition of taking everything great about the previous generation Scorpion and improving upon it. The EVO 3 is a distilled masterpiece of a 9mm SMG, boasting a fast fire rate, soft recoil impulse, and excellent ergonomics. It's no wonder special operations and boarding forces around the cluster rave about this compact buzzsaw of a gun.</Axi_SMG_Scorpion_21CA.description>
+  <!-- EN: stock -->
+  <Axi_SMG_Scorpion_21CA.tools.stock.label>stock</Axi_SMG_Scorpion_21CA.tools.stock.label>
+  <!-- EN: barrel -->
+  <Axi_SMG_Scorpion_21CA.tools.barrel.label>barrel</Axi_SMG_Scorpion_21CA.tools.barrel.label>
+  <!-- EN: CZ Scorpion -->
+  <Axi_SMG_Scorpion_21CA.verbs.Verb_Shoot.label>CZ Scorpion</Axi_SMG_Scorpion_21CA.verbs.Verb_Shoot.label>
+  <!-- EN: Scorpion EVO bullet -->
+  <Bullet_Scorpion_21CA.label>Scorpion EVO bullet</Bullet_Scorpion_21CA.label>
+</LanguageData>

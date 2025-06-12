@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Mk.18 -->
+  <Axi_AR_Mk18_21CA.label>Mk.18</Axi_AR_Mk18_21CA.label>
+  <!-- EN: A modern improvement upon the venerable M4A1 assault carbine, the Mark 18 is manufactured with quality in mind and features advanced materials and quality engineering to ensure enhanced handling, lethality and durability. It is revered by special operations forces and mercenaries all throughout the galazy as one of the finest examples of the AR-15 pattern rifle currently in service. Unfortunately, this quality comes with some added expense in both materials and manufacture time. -->
+  <Axi_AR_Mk18_21CA.description>A modern improvement upon the venerable M4A1 assault carbine, the Mark 18 is manufactured with quality in mind and features advanced materials and quality engineering to ensure enhanced handling, lethality and durability. It is revered by special operations forces and mercenaries all throughout the galazy as one of the finest examples of the AR-15 pattern rifle currently in service. Unfortunately, this quality comes with some added expense in both materials and manufacture time.</Axi_AR_Mk18_21CA.description>
+  <!-- EN: stock -->
+  <Axi_AR_Mk18_21CA.tools.stock.label>stock</Axi_AR_Mk18_21CA.tools.stock.label>
+  <!-- EN: barrel -->
+  <Axi_AR_Mk18_21CA.tools.barrel.label>barrel</Axi_AR_Mk18_21CA.tools.barrel.label>
+  <!-- EN: Mk.18 -->
+  <Axi_AR_Mk18_21CA.verbs.Verb_Shoot.label>Mk.18</Axi_AR_Mk18_21CA.verbs.Verb_Shoot.label>
+  <!-- EN: Mk18 bullet -->
+  <Bullet_Mk18_21CA.label>Mk18 bullet</Bullet_Mk18_21CA.label>
+</LanguageData>

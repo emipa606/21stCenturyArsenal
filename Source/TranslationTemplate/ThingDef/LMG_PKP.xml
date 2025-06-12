@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: PKP Pecheneg -->
+  <Axi_LMG_PKP_21CA.label>PKP Pecheneg</Axi_LMG_PKP_21CA.label>
+  <!-- EN: The PKP Pecheneg is a monster of a light machine gun, it's powerful 7.26mm round putting it in the same class of stopping power typically found in heavier-weight MMGs. While its fire rate isn't as fast as other modern LMGs, it makes up for this with raw stopping power. The PKP is notable for having an extremely large muzzle flash for a weapon of its caliber. -->
+  <Axi_LMG_PKP_21CA.description>The PKP Pecheneg is a monster of a light machine gun, it's powerful 7.26mm round putting it in the same class of stopping power typically found in heavier-weight MMGs. While its fire rate isn't as fast as other modern LMGs, it makes up for this with raw stopping power. The PKP is notable for having an extremely large muzzle flash for a weapon of its caliber.</Axi_LMG_PKP_21CA.description>
+  <!-- EN: stock -->
+  <Axi_LMG_PKP_21CA.tools.stock.label>stock</Axi_LMG_PKP_21CA.tools.stock.label>
+  <!-- EN: barrel -->
+  <Axi_LMG_PKP_21CA.tools.barrel.label>barrel</Axi_LMG_PKP_21CA.tools.barrel.label>
+  <!-- EN: PKP Pecheneg -->
+  <Axi_LMG_PKP_21CA.verbs.Verb_Shoot.label>PKP Pecheneg</Axi_LMG_PKP_21CA.verbs.Verb_Shoot.label>
+  <!-- EN: PKP Pecheneg bullet -->
+  <Bullet_PKP_21CA.label>PKP Pecheneg bullet</Bullet_PKP_21CA.label>
+</LanguageData>

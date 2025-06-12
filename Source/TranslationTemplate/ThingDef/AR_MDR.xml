@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Desert Tech MDR -->
+  <Axi_AR_MDR_21CA.label>Desert Tech MDR</Axi_AR_MDR_21CA.label>
+  <!-- EN: An original design from Desert Tech, the MDR was designed as the standard-issue battle rifle for soldiers on the desert world of Uhta. Built to take a beating and keep on going, the MDR has seen widespread adoption across the cluster on various glitterworld and midworlds, and constantly receives praise for the rifle's relatively mild recoil impulse, hard hitting .308-caliber round, and ability to continue cycling even when caked with mud, dirt, sand, and water. -->
+  <Axi_AR_MDR_21CA.description>An original design from Desert Tech, the MDR was designed as the standard-issue battle rifle for soldiers on the desert world of Uhta. Built to take a beating and keep on going, the MDR has seen widespread adoption across the cluster on various glitterworld and midworlds, and constantly receives praise for the rifle's relatively mild recoil impulse, hard hitting .308-caliber round, and ability to continue cycling even when caked with mud, dirt, sand, and water.</Axi_AR_MDR_21CA.description>
+  <!-- EN: stock -->
+  <Axi_AR_MDR_21CA.tools.stock.label>stock</Axi_AR_MDR_21CA.tools.stock.label>
+  <!-- EN: barrel -->
+  <Axi_AR_MDR_21CA.tools.barrel.label>barrel</Axi_AR_MDR_21CA.tools.barrel.label>
+  <!-- EN: Desert Tech MDR -->
+  <Axi_AR_MDR_21CA.verbs.Verb_Shoot.label>Desert Tech MDR</Axi_AR_MDR_21CA.verbs.Verb_Shoot.label>
+  <!-- EN: MDR bullet -->
+  <Bullet_MDR_21CA.label>MDR bullet</Bullet_MDR_21CA.label>
+</LanguageData>

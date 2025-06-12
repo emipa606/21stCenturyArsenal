@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: AK-12 -->
+  <Axi_AR_AK12_21CA.label>AK-12</Axi_AR_AK12_21CA.label>
+  <!-- EN: A modernized variant of the legendary AK-47, the AK-12 utilized contemporary materials and manufacturing techniques to produce a weapon that shares it's predecessor's reliability while reducing weight and improving ergonomics. -->
+  <Axi_AR_AK12_21CA.description>A modernized variant of the legendary AK-47, the AK-12 utilized contemporary materials and manufacturing techniques to produce a weapon that shares it's predecessor's reliability while reducing weight and improving ergonomics.</Axi_AR_AK12_21CA.description>
+  <!-- EN: stock -->
+  <Axi_AR_AK12_21CA.tools.stock.label>stock</Axi_AR_AK12_21CA.tools.stock.label>
+  <!-- EN: barrel -->
+  <Axi_AR_AK12_21CA.tools.barrel.label>barrel</Axi_AR_AK12_21CA.tools.barrel.label>
+  <!-- EN: AK-12 -->
+  <Axi_AR_AK12_21CA.verbs.Verb_Shoot.label>AK-12</Axi_AR_AK12_21CA.verbs.Verb_Shoot.label>
+  <!-- EN: AK-12 bullet -->
+  <Bullet_AK12_21CA.label>AK-12 bullet</Bullet_AK12_21CA.label>
+</LanguageData>

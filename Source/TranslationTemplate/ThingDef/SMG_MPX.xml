@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: SIG MPX -->
+  <Axi_SMG_MPX_21CA.label>SIG MPX</Axi_SMG_MPX_21CA.label>
+  <!-- EN: Developed by SIG Sauer, the MPX is a 9mm submachine gun that, while visually similar to the MP5, has more in common mechanically with assault rifles then other SMGs. -->
+  <Axi_SMG_MPX_21CA.description>Developed by SIG Sauer, the MPX is a 9mm submachine gun that, while visually similar to the MP5, has more in common mechanically with assault rifles then other SMGs.</Axi_SMG_MPX_21CA.description>
+  <!-- EN: stock -->
+  <Axi_SMG_MPX_21CA.tools.stock.label>stock</Axi_SMG_MPX_21CA.tools.stock.label>
+  <!-- EN: barrel -->
+  <Axi_SMG_MPX_21CA.tools.barrel.label>barrel</Axi_SMG_MPX_21CA.tools.barrel.label>
+  <!-- EN: SIG MPX -->
+  <Axi_SMG_MPX_21CA.verbs.Verb_Shoot.label>SIG MPX</Axi_SMG_MPX_21CA.verbs.Verb_Shoot.label>
+  <!-- EN: MPX bullet -->
+  <Bullet_MPX_21CA.label>MPX bullet</Bullet_MPX_21CA.label>
+</LanguageData>

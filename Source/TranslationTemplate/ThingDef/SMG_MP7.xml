@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Heckler and Koch MP7 -->
+  <Axi_SMG_MP7_21CA.label>Heckler and Koch MP7</Axi_SMG_MP7_21CA.label>
+  <!-- EN: Originally designed as a rival to FN's P90, the MP7 took on a life of its own as Deutschplan's premier submachine gun. Adored by special operations teams across the galaxy for it's uncanny ability to penetrate body armor in a compact package. Unfortunately, the small fast round it fires means that while the armor penetration is astounding, the damage to soft tissue leaves something to be desired. -->
+  <Axi_SMG_MP7_21CA.description>Originally designed as a rival to FN's P90, the MP7 took on a life of its own as Deutschplan's premier submachine gun. Adored by special operations teams across the galaxy for it's uncanny ability to penetrate body armor in a compact package. Unfortunately, the small fast round it fires means that while the armor penetration is astounding, the damage to soft tissue leaves something to be desired.</Axi_SMG_MP7_21CA.description>
+  <!-- EN: stock -->
+  <Axi_SMG_MP7_21CA.tools.stock.label>stock</Axi_SMG_MP7_21CA.tools.stock.label>
+  <!-- EN: barrel -->
+  <Axi_SMG_MP7_21CA.tools.barrel.label>barrel</Axi_SMG_MP7_21CA.tools.barrel.label>
+  <!-- EN: Heckler and Koch MP7 -->
+  <Axi_SMG_MP7_21CA.verbs.Verb_Shoot.label>Heckler and Koch MP7</Axi_SMG_MP7_21CA.verbs.Verb_Shoot.label>
+  <!-- EN: MP7 bullet -->
+  <Bullet_MP7_21CA.label>MP7 bullet</Bullet_MP7_21CA.label>
+</LanguageData>
