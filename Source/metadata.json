@@ -9,5 +9,11 @@
     " weaponry",
     " variety"
   ],
-  "LastXmlCleaning": "2025-06-14T18:52:53.134383+02:00"
+  "LastXmlCleaning": "2025-06-14T18:52:53.134383+02:00",
+  "Patches": false,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 59395,
+  "CodeBaseSize": 75
 }
