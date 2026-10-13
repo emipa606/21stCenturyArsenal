@@ -1,15 +1,15 @@
 # [21st Century Arsenal (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2340827099)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of Axinex mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1598963961
 
 - No longer requires [[XND] Proper Shotguns](https://steamcommunity.com/workshop/filedetails/?id=1438488634) but uses it if its loaded.
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 **IMPORTANT: As of 10 January 2019, I am placing 21CA on hiatus while I am busy with uni. Updates may still be pushed over the next few months, but they will come with less frequency and with less new content. In the meantime, feel free to continue leaving feedback and I'll make a note of it for future updates, thank you!**
 
@@ -31,13 +31,13 @@ I can be reached at the [RimWorld community Discord](https://discord.gg/rimworld
 [@abaddon16](https://github.com/Abaddon16) (Discord: @abaddon16#7120) - For showing me that modding isn't as scary as it first seems and for never-ending rubberducking
 @Shotgunfrenzy and the #rimworld-art channel at large - For making my art suck less and for always providing a level of quality to strive for (and compete against, at times).
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -45,4 +45,4 @@ I can be reached at the [RimWorld community Discord](https://discord.gg/rimworld
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/21stCenturyArsenal?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2340827099) | tags:  gunsmithing,  weaponry,  variety
+[![Image](https://img.shields.io/github/v/release/emipa606/21stCenturyArsenal?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2340827099) | weaponry, gunsmithing, variety
